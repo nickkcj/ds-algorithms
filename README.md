@@ -1,34 +1,54 @@
-# **Data Structures and Algorithms 🚀**  
+<div align="center">
 
-Repository to store and review Data Structures + Algorithms code during my college studies. In addition to consolidating learning, I use this space to practice version control with Git.  
+# Data Structures and Algorithms
 
-## 📌 **Content**  
-Here you will find implementations of various **data structures** and **algorithms**, including:  
+#### Core data structures and algorithms implemented from scratch in Python, as a study and reference repository.
 
-### **🛠 Data Structures:**  
-✅ Lists (singly linked, doubly linked, circular)  
-✅ Stacks and Queues  
-✅ Trees (binary, AVL, etc.)  
-✅ Graphs  
-✅ Hash Tables  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
+![Study](https://img.shields.io/badge/Study_Notes-6E5494?style=for-the-badge)
 
-### **⚡ Algorithms:**  
-✅ **Sorting Algorithms**: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort  
-✅ **Recursion**: Factorial, Fibonacci, Tower of Hanoi, Backtracking problems  
-✅ **Searching Algorithms** _(coming soon!)_: Linear Search, Binary Search, Depth-First Search (DFS), Breadth-First Search (BFS)  
-
-## ⚙️ **Technologies Used**  
-- Language: *Python*  
-- Git/GitHub for version control  
-
-## 🚀 **How to Use**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Nickkcj/data-structures.git
-   ```  
-2. Navigate to the desired structure or algorithm folder and run the code.  
-
-## 📚 **Objective**  
-This repository serves as a space for continuous learning, helping to reinforce concepts and develop good practices in Git usage.  
+</div>
 
 ---
+
+## Overview
+
+A growing collection of data structures and algorithms written from scratch in Python during my Computer Science studies. Each implementation favors clarity over cleverness, so it works as a reference to revisit the fundamentals and to practice clean, tested code.
+
+## Contents
+
+### Data Structures
+- Linked lists (singly, doubly, circular)
+- Stacks and queues
+- Trees (binary, AVL)
+- Graphs
+- Hash tables
+
+### Algorithms
+- Sorting: bubble, selection, insertion, merge, quick
+- Recursion: factorial, Fibonacci, Tower of Hanoi, backtracking
+- Searching: linear, binary, DFS and BFS
+
+## Tech Stack
+
+- **Python**, standard library only
+- No external dependencies
+
+## Running Locally
+
+```bash
+git clone https://github.com/nickkcj/ds-algorithms.git
+cd ds-algorithms
+python <path-to-file>.py
+```
+
+Each structure and algorithm lives in its own file and can be run on its own.
+
+---
+
+<div align="center">
+
+Study repository, kept as a personal reference.
+
+</div>
